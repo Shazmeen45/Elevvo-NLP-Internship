@@ -98,4 +98,30 @@ Tested the trained sentiment classifier on custom movie reviews to predict posit
 
 ### Model Comparison
 
-| Model | Accuracy
+| Model | Accuracy |
+|---|---:|
+| Logistic Regression | 89.80% |
+| Multinomial Naive Bayes | 87.74% |
+
+Logistic Regression achieved higher accuracy than Multinomial Naive Bayes on this dataset.
+
+## Project Structure
+
+```text
+Elevvo-NLP-Internship/
+│
+├── Task-01-Sentiment-Analysis-on-IMDb-Movie-Reviews/
+│   ├── Task_01_Sentiment_Analysis_on_IMDb_Movie_Reviews.ipynb
+│   ├── README.md
+│   └── Screenshots/
+```
+
+## Conclusion
+
+This project demonstrates how Natural Language Processing and machine learning algorithms can be used to classify movie reviews based on sentiment. It provided practical experience in text preprocessing, TF-IDF feature extraction, model training, model evaluation, and data visualization.
+
+## Author
+
+**Shazmeen Irshad**
+
+**Internship:** Elevvo NLP Internship
