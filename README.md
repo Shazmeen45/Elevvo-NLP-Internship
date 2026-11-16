@@ -126,7 +126,7 @@ Identify and extract named entities such as people, organizations, locations, an
 
 The project also includes entity visualization, category distribution, and a custom news article example.
 
-**Project:** `Task-04-Named-Entity-Recognition`
+**Project:** `Task-04-Named-Entity-Recognition-from-News-Articles`
 
 [View Task 04 README](Task-04-Named-Entity-Recognition/README.md)
 
